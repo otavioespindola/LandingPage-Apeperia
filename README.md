@@ -1,7 +1,7 @@
 # Apeperia
 Página desenvolvida durante curso da Alura sobre desgin responsivo.
 
-##Objetivo
+## Objetivo
 Consolidar conhecimentos em CSS
 
 ## Tecnologias
